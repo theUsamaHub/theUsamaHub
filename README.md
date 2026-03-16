@@ -91,6 +91,15 @@
   <img src="https://github.com/theUsamaHub/theUsamaHub/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
+
+<!-- SUPPORT SECTION -->
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40"> Support
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/theUsamaHub">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
+</p>
 <!-- SPOTIFY / RECENT ACTIVITY (OPTIONAL) -->
 <!-- You can add more sections here -->
 
