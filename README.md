@@ -88,7 +88,7 @@
 
 <!-- SNAKE CONTRIBUTION GRID -->
 <p align="center">
-  <img src="https://github.com/theUsamaHub/theUsamaHub/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/theUsamaHub/theUsamaHub/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
 </p>
 
 
