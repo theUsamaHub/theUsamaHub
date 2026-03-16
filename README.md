@@ -87,9 +87,15 @@
 </p>
 
 <!-- SNAKE CONTRIBUTION GRID -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/theUsamaHub/theUsamaHub/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
-</p>
+</p> -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/theUsamaHub/theUsamaHub/output/github-contribution-grid-fire.svg" />
+</p> -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/theUsamaHub/theUsamaHub/output/rocket-contribution-grid.svg" />
+</p> -->
 
 
 <!-- SUPPORT SECTION -->
