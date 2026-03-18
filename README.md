@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=theUsamaHub&theme=tokyonight" alt="theUsamaHub" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=theUsamaHub&theme=tokyonight&cache_seconds=1800" />
       </td>
     </tr>
   </table>
