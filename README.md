@@ -4,16 +4,16 @@
 </h1>
 
 <!-- PROFILE VIEWS COUNTER -->
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=theUsamaHub&label=Profile%20views&color=0e75b6&style=flat" alt="theUsamaHub" /> 
-</p>
+</p> -->
 
 <!-- TROPHY SECTION -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=theUsamaHub&theme=onedark&row=1&column=6" alt="theUsamaHub" />
   </a>
-</p>
+</p> -->
 
 <!-- ABOUT ME SECTION WITH EMOJIS AND CLEAR ALIGNMENT -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
@@ -99,22 +99,21 @@
 
 
 <!-- SUPPORT SECTION -->
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40"> Support
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/theUsamaHub">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
-</p>
+</p> -->
 <!-- SPOTIFY / RECENT ACTIVITY (OPTIONAL) -->
 <!-- You can add more sections here -->
 
 <!-- FOOTER WITH ANIMATED DIVIDER -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+</div> -->
 
 <!-- LAST UPDATE (AUTOMATIC) -->
-<p align="right">
+<!-- <p align="right">
   <img src="https://img.shields.io/badge/Last%20Updated-March%202025-blue?style=flat-square" />
-</p>
+</p> -->
