@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Usama+Saleem;Passionate+Backend+Developer" alt="Typing SVG" />
 </h1>
-
+ 
 <!-- PROFILE VIEWS COUNTER -->
 <!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=theUsamaHub&label=Profile%20views&color=0e75b6&style=flat" alt="theUsamaHub" /> 
