@@ -22,7 +22,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I'm currently working on <b>Auth system in .NET CORE WebAPI</b></li>
+        <li>🔭 I'm currently working as a dotnet Developer at Talent & Technologies</b></li>
         <li>🌱 I'm currently learning <b>Flutter and Dart</b></li>
         <li>👯 I'm looking to collaborate on <b>.NET CORE MVC, Laravel, .NET CORE WebAPI</b></li>
         <li>📫 How to reach me: <b>u641332@gmail.com</b></li>
