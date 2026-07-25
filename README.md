@@ -1,119 +1,130 @@
-<!-- HEADER WITH WAVE AND TITLE -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Usama+Saleem;Backend+Developer" alt="Typing SVG" />
-</h1>
- 
-<!-- PROFILE VIEWS COUNTER -->
-<!-- <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=theUsamaHub&label=Profile%20views&color=0e75b6&style=flat" alt="theUsamaHub" /> 
-</p> -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  TERMINAL HEADER                                                 -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<!-- TROPHY SECTION -->
-<!-- <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theUsamaHub&theme=onedark&row=1&column=6" alt="theUsamaHub" />
-  </a>
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=600&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%3E+Initializing+connection...;Usama+Saleem%3A+%7B+Backend+Developer+%7D" alt="typing svg" />
+</p>
 
-<!-- ABOUT ME SECTION WITH EMOJIS AND CLEAR ALIGNMENT -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/%3E_v2.0.25-00FF41?style=flat-square&logo=ghost&logoColor=00FF41&labelColor=0D1117" alt="version" />
+  <img src="https://img.shields.io/badge/STATUS-online-00FF41?style=flat-square&labelColor=0D1117" alt="status" />
+  <img src="https://img.shields.io/badge/SEC-clear-00FF41?style=flat-square&labelColor=0D1117" alt="security" />
+</p>
+
+---
+
+## `~ root@usama:~$ whoami`
+
+```
+ ┌─────────────────────────────────────────────────────────────┐
+ │  > Role:        Backend Developer                           │
+ │  > Location:    Talent & Technologies                       │
+ │  > Stack:       .NET / Laravel / Flutter                    │
+ │  > Status:      Building. Learning. Shipping.               │
+ │  > Clearance:   FULL ACCESS                                 │
+ └─────────────────────────────────────────────────────────────┘
+```
+
+<details>
+<summary><b> cat /etc/about.conf</b></summary>
+<br>
+
+```ini
+[current_session]
+name  = "Usama Saleem"
+role  = "Backend Developer @ Talent & Technologies"
+stack = [".NET Core", "Laravel", "Flutter", "Dart", "Docker"]
+focus = "Building scalable systems and clean APIs"
+learning = ["Flutter & Dart", "Cloud Architecture"]
+collab    = [".NET Core MVC", "Laravel", "Web API"]
+fun_fact  = "I think I'm good at explaining things"
+contact   = "u641332@gmail.com"
+```
+
+</details>
+
+---
+
+## `> ls ./skills/`
 
 <table>
   <tr>
-    <td>
-      <ul>
-        <li>🔭 I'm currently working as a dotnet Developer at Talent & Technologies</b></li>
-        <li>🌱 I'm currently learning <b>Flutter and Dart</b></li>
-        <li>👯 I'm looking to collaborate on <b>.NET CORE MVC, Laravel, .NET CORE WebAPI</b></li>
-        <li>📫 How to reach me: <b>u641332@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>I think i am good at explaining</b></li>
-      </ul>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet" /><br>
+      <sub><b>C# / .NET</b></sub>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="coding gif" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=laravel,php" /><br>
+      <sub><b>Laravel / PHP</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+      <sub><b>Flutter / Dart</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" /><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git,github" /><br>
+      <sub><b>Git / GitHub</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+      <sub><b>Databases</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" /><br>
+      <sub><b>MSSQL</b></sub>
     </td>
   </tr>
 </table>
 
-<!-- CONNECT WITH ME SECTION -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me
+---
 
-<p align="left">
+## `> nmap github.com/theUsamaHub`
+
+<p align="center">
+
   <a href="https://github.com/theUsamaHub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/github-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="mailto:u641332@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/gmail-u641332-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
+
 </p>
 
-<!-- LANGUAGES AND TOOLS SECTION WITH BADGES -->
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> Languages and Tools
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,css,dart,docker,figma,flutter,git,html,js,laravel,mysql,php,postgres" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="60" height="60"/>
-</p>
-
-<!-- GITHUB STATS SECTION WITH CARDS SIDE BY SIDE -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50"> GitHub Stats
+## `> cat stats.log`
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theUsamaHub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="theUsamaHub" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=theUsamaHub&show_icons=true&locale=en&theme=tokyonight" alt="theUsamaHub" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=theUsamaHub&theme=tokyonight&cache_seconds=1800" />
-      </td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=theUsamaHub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=79c0ff&text_color=C9D1D9" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theUsamaHub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&layout=compact" /></td>
     </tr>
   </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theUsamaHub&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=58A6FF" />
 </div>
 
-<!-- ACTIVITY GRAPH -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Activity
+---
+
+## `> cat activity.log`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theUsamaHub&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theUsamaHub&bg_color=0D1117&color=00FF41&line=00FF41&point=79c0ff&area=true&area_color=00FF41&area_opacity=20&hide_border=true" alt="activity graph" />
 </p>
 
-<!-- SNAKE CONTRIBUTION GRID -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/theUsamaHub/theUsamaHub/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
-</p> -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/theUsamaHub/theUsamaHub/output/github-contribution-grid-fire.svg" />
-</p> -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/theUsamaHub/theUsamaHub/output/rocket-contribution-grid.svg" />
-</p> -->
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0D1117,00FF41&height=80&section=footer" width="100%" />
+</p>
 
-<!-- SUPPORT SECTION -->
-
-<!-- <p align="center">
-  <a href="https://www.buymeacoffee.com/theUsamaHub">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</p> -->
-<!-- SPOTIFY / RECENT ACTIVITY (OPTIONAL) -->
-<!-- You can add more sections here -->
-
-<!-- FOOTER WITH ANIMATED DIVIDER -->
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div> -->
-
-<!-- LAST UPDATE (AUTOMATIC) -->
-<!-- <p align="right">
-  <img src="https://img.shields.io/badge/Last%20Updated-March%202025-blue?style=flat-square" />
-</p> -->
+<p align="center">
+  <sub><i>last updated: 2025 // built with precision & caffeine</i></sub>
+</p>
