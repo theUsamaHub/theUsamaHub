@@ -1,6 +1,7 @@
 <!-- ═════════════════ HEADER ═════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,35:00FF41,70:58A6FF,100:FF3B3B&height=240&section=header&text=USAMA%20SALEEM&fontSize=62&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=%3C%2F%3E%20Backend%20Developer%20%E2%80%A2%20Clean%20APIs%20%E2%80%A2%20Scalable%20Systems&descSize=18&descAlignY=66&stroke=00FF41&strokeWidth=1" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=![Uploading image.png…]()
+&color=0:0D1117,35:00FF41,70:58A6FF,100:FF3B3B&height=240&section=header&text=USAMA%20SALEEM&fontSize=62&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=%3C%2F%3E%20Backend%20Developer%20%E2%80%A2%20Clean%20APIs%20%E2%80%A2%20Scalable%20Systems&descSize=18&descAlignY=66&stroke=00FF41&strokeWidth=1" width="100%" alt="header" />
 </p>
 
 <p align="center">
