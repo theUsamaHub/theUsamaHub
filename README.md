@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://theusamasaleem.infinityfree.me"><img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-FF383F?style=for-the-badge" alt="Portfolio" /></a>
 <a href="mailto:u641332@gmail.com"><img src="https://img.shields.io/badge/EMAIL_%E2%86%97-101010?style=for-the-badge&amp;logo=gmail&amp;logoColor=FF383F" alt="Email" /></a>
-<a href="https://linkedin.com/in/theUsamasaleem"><img src="https://img.shields.io/badge/LINKEDIN_%E2%86%97-101010?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/theusama-saleem"><img src="https://img.shields.io/badge/LINKEDIN_%E2%86%97-101010?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
 <table align="center">
