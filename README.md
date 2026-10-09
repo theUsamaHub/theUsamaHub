@@ -1,5 +1,5 @@
 <h1 align="center">USAMA SALEEM.</h1>
-<p align="center"><strong>BACKEND DEVELOPER</strong> &nbsp; / &nbsp; KARACHI, PAKISTAN</p>
+<p align="center"><strong>FULL-STACK DEVELOPER</strong> &nbsp; / &nbsp; KARACHI, PAKISTAN</p>
 <p align="center">Reliable web applications. Clean APIs. Practical architecture.</p>
 <p align="center">
 <a href="https://theusamasaleem.infinityfree.me"><img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-FF383F?style=for-the-badge" alt="Portfolio" /></a>
@@ -12,7 +12,7 @@
 <td colspan="2" align="center">
 <br />
 <strong>BUILDING WITH PURPOSE.</strong><br />
-<img width="480" src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=20&amp;duration=2800&amp;pause=1200&amp;color=FF383F&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=55&amp;lines=Clean+code.+Practical+architecture.;Laravel+%2F+ASP.NET+Core+%2F+REST+APIs;Building.+Learning.+Shipping." alt="Clean code. Practical architecture. Building. Learning. Shipping." />
+<img width="480" src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=20&amp;duration=2800&amp;pause=1200&amp;color=FF383F&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=55&amp;lines=Clean+code.+Practical+architecture.;Laravel+%2F+ASP.NET+Core+%2F+MERN+%2F+Flutter;Building.+Learning.+Shipping." alt="Clean code. Practical architecture. Building. Learning. Shipping." />
 <br />
 </td>
 </tr>
@@ -20,9 +20,9 @@
 <td width="50%" align="center" valign="top">
 <br />
 <img src="https://img.shields.io/badge/01_ABOUT-101010?style=flat-square&amp;labelColor=101010&amp;color=FF383F" alt="01 ABOUT" />
-<h3>Backend is where I build.</h3>
+<h3>Backend first. Full stack when needed.</h3>
 <p>I'm Usama, a software engineering student<br />and backend developer in Karachi.</p>
-<p>I build with <strong>Laravel</strong> and <strong>ASP.NET Core</strong>,<br />turning requirements into maintainable applications.</p>
+<p>I build with <strong>Laravel</strong>, <strong>ASP.NET Core</strong>, and the <strong>MERN stack</strong>,<br />turning requirements into maintainable applications.</p>
 <p><sub>Freelance developer · Software Engineering at Aptech</sub></p>
 <br />
 </td>
@@ -45,10 +45,16 @@
 <img src="https://img.shields.io/badge/PHP-101010?style=flat-square&amp;logo=php&amp;logoColor=FF383F" alt="PHP" />
 <img src="https://img.shields.io/badge/PostgreSQL-101010?style=flat-square&amp;logo=postgresql&amp;logoColor=FF383F" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-101010?style=flat-square&amp;logo=mysql&amp;logoColor=FF383F" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-101010?style=flat-square&amp;logo=mongodb&amp;logoColor=FF383F" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express-101010?style=flat-square&amp;logo=express&amp;logoColor=FF383F" alt="Express" />
+<img src="https://img.shields.io/badge/React-101010?style=flat-square&amp;logo=react&amp;logoColor=FF383F" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-101010?style=flat-square&amp;logo=nodedotjs&amp;logoColor=FF383F" alt="Node.js" />
+<img src="https://img.shields.io/badge/Flutter-101010?style=flat-square&amp;logo=flutter&amp;logoColor=FF383F" alt="Flutter" />
 <img src="https://img.shields.io/badge/Git-101010?style=flat-square&amp;logo=git&amp;logoColor=FF383F" alt="Git" /></p>
-<p><strong>Backend</strong> &nbsp; C# · ASP.NET Core MVC · EF Core · PHP · Laravel</p>
-<p><strong>Frontend</strong> &nbsp; HTML · CSS · JavaScript · Bootstrap · jQuery</p>
-<p><strong>Data &amp; deployment</strong> &nbsp; PostgreSQL · MySQL · SQL Server · Git · Railway</p>
+<p><strong>Backend</strong> &nbsp; C# · ASP.NET Core MVC · EF Core · PHP · Laravel · Node.js · Express</p>
+<p><strong>Frontend</strong> &nbsp; HTML · CSS · JavaScript · React · Bootstrap · jQuery</p>
+<p><strong>Mobile</strong> &nbsp; Flutter · Dart (learning)</p>
+<p><strong>Data &amp; deployment</strong> &nbsp; PostgreSQL · MySQL · SQL Server · MongoDB · Git · Railway</p>
 <br />
 </td>
 </tr>
@@ -57,7 +63,7 @@
 <br />
 <img src="https://img.shields.io/badge/04_WHAT_I_BUILD-101010?style=flat-square&amp;labelColor=101010&amp;color=FF383F" alt="04 WHAT I BUILD" />
 <h3>Useful software. Clear structure.</h3>
-<p>Web applications &amp; admin dashboards<br />REST APIs &amp; integrations<br />Authentication &amp; user roles<br />ASP.NET legacy migration</p>
+<p>Web applications &amp; admin dashboards<br />MERN stack web apps<br />REST APIs &amp; integrations<br />Authentication &amp; user roles<br />ASP.NET legacy migration</p>
 <p><a href="https://theusamasaleem.infinityfree.me/work"><strong>EXPLORE MY WORK ↗</strong></a></p>
 <br />
 </td>
@@ -95,7 +101,7 @@
 <br />
 <img src="https://img.shields.io/badge/06_LET’S_CONNECT-101010?style=flat-square&amp;labelColor=101010&amp;color=FF383F" alt="06 LET’S CONNECT" />
 <h3>Have something worth building?</h3>
-<p>Let's talk about your next Laravel, ASP.NET Core, or API project.</p>
+<p>Let's talk about your next Laravel, ASP.NET Core, MERN, or API project.</p>
 <p><a href="mailto:u641332@gmail.com"><strong>u641332@gmail.com ↗</strong></a></p>
 <br />
 </td>
