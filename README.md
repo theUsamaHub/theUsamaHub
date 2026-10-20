@@ -1,5 +1,5 @@
 <h1 align="center">USAMA SALEEM.</h1>
-<p align="center"><strong>FULL-STACK DEVELOPER</strong> &nbsp; / &nbsp; KARACHI, PAKISTAN</p>
+<p align="center"><strong>FULL-STACK DEVELOPER</strong> &nbsp; / &nbsp; KARACHI, PAKISTAN</p> 
 <p align="center">Reliable web applications. Clean APIs. Practical architecture.</p>
 <p align="center">
 <a href="https://theusamasaleem.infinityfree.me"><img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-FF383F?style=for-the-badge" alt="Portfolio" /></a>
