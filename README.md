@@ -1,4 +1,4 @@
-  <h1 align="center">USAMA SALEEM.</h1>
+<h1 align="center">USAMA SALEEM.</h1>
 <p align="center"><strong>FULL-STACK DEVELOPER</strong> &nbsp; / &nbsp; KARACHI, PAKISTAN</p> 
 <p align="center">Reliable web applications. Clean APIs. Practical architecture.</p>
 <p align="center">
